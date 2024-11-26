@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\danie\OneDrive\Escritorio\URL\URL\negocios turbinas\Jose APA 2023\ColorMania\MyForm.h(882,30): warning C4305: '=': truncamiento de '__int64' a 'int'
+C:\Users\danie\OneDrive\Escritorio\URL\URL\negocios turbinas\Jose APA 2023\ColorMania\MyForm.h(882,30): warning C4309: '=': truncamiento de valor constante
+  Cola.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  ColorMania.vcxproj -> C:\Users\danie\OneDrive\Escritorio\URL\URL\negocios turbinas\Jose APA 2023\ColorMania\x64\Debug\ColorMania.exe

@@ -1,0 +1,4 @@
+C:\Users\danie\OneDrive\Escritorio\URL\URL\negocios turbinas\Jose APA 2023\ColorMania\x64\Debug\ColorMania.vcxproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Escritorio\URL\URL\negocios turbinas\Jose APA 2023\ColorMania\x64\Debug\ColorMania.MyForm.resources
+C:\Users\danie\OneDrive\Escritorio\URL\URL\negocios turbinas\Jose APA 2023\ColorMania\x64\Debug\ColorMania.vcxproj.GenerateResource.cache
+C:\Users\danie\OneDrive\Escritorio\URL\URL\negocios turbinas\Jose APA 2023\ColorMania\x64\Debug\ColorMania.exe
